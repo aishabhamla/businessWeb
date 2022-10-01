@@ -1,10 +1,11 @@
 # Business Website
 # RWC - NJIT
-Aisha Bhamla
+
+Done by: Aisha Bhamla and Harriton Gobeh
 
 
-Harriton Gobeh
+This project will be a website for a flower shop.
 
 
-This project will be a website for a flower shop
+
 This will **only** consist of HTML, CSS, and JavaScript.
